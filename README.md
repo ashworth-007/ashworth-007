@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **kunalsinghh941@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15wc-PDZxHxB4JufVGNDue7bESbhmAaHS/view?usp=sharing](https://drive.google.com/file/d/15wc-PDZxHxB4JufVGNDue7bESbhmAaHS/view?usp=sharing)
+- 📄 Here's my resume [https://drive.google.com/file/d/15wc-PDZxHxB4JufVGNDue7bESbhmAaHS/view?usp=sharing](https://drive.google.com/file/d/15wc-PDZxHxB4JufVGNDue7bESbhmAaHS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
