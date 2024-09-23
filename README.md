@@ -86,6 +86,6 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashworth-007&show_icons=true&locale=en&layout=compact" alt="ashworth-007" width="100%" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashworth-007&show_icons=true&locale=en&layout=compact" alt="ashworth-007" width="80%" /></p>
 
 
