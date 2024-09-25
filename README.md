@@ -38,9 +38,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60" style="margin-right: 10px;"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" style="margin-right: 10px;"/>
-  </a>
 </p>
 
 <p align="left">
@@ -86,9 +83,7 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="60" height="60" style="margin-right: 10px;"/>
   </a>
-  <a href="https://pugjs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="Pug" width="60" height="60" style="margin-right: 10px;"/>
-  </a>
+ 
 </p>
 
 
